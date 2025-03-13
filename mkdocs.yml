@@ -1,0 +1,20 @@
+site_name: How to Add Events on Google Calendar
+site_url: https://googlecalendarusermanual.ca
+theme:
+  name: material
+  palette: 
+    # Dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: green
+      accent: deep purple 
+
+    # ligth mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent:  purple 

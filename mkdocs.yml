@@ -5,6 +5,10 @@ nav:
   - Notes And Warning messages: NotesAndWarnings.md
   - Accessing Google Calendar : Accessing.md
   - Creating an Event and Share with people: Event.md
+  - Adding Recurring Events and getting notifications: Recurring.md
+  - Integrating Google Calendar with Other Apps: Integrating.md
+  - Glossary: Glossary.md
+
   - FAQ: faq.md
   - Contact: contact.md
 

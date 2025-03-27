@@ -7,7 +7,7 @@ Google Calendar provides features that users can create and share with groups of
 1- Click the "Create" button or tap the + icon on mobile.  
 
 <p align="center">
-  <img src="/Users/ea/Documents/GoogleCalendar/google-calendar-documentation/docs/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Screenshot" width="400">
 </p>
 
 
@@ -22,18 +22,18 @@ Google Calendar provides features that users can create and share with groups of
 7- In the left menu, choose the calendar you want to share.
 
 <p align="center">
-  <img src="/Users/ea/Documents/GoogleCalendar/google-calendar-documentation/docs/IMAGES/Screenshot 2025-03-27 at 9.14.24 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Screenshot" width="400">
 </p>
 8- Scroll to "Share with” click "Add people and groups".
 
 9- Enter the email addresses of the people you want to share with.
 10-Choose permission settings (view-only or edit access).
 <p align="center">
-  <img src="/Users/ea/Documents/GoogleCalendar/google-calendar-documentation/docs/IMAGES/Screenshot 2025-03-27 at 9.52.33 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 9.52.33 AM.png" alt="Google Calendar Screenshot" width="400">
 </p>
 11- Click "Send" to share the calendar.
 <p align="center">
-  <img src="/Users/ea/Documents/GoogleCalendar/google-calendar-documentation/docs/IMAGES/Screenshot 2025-03-27 at 9.55.39 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 9.55.39 AM.png" alt="Google Calendar Screenshot" width="400">
 </p>
 
 

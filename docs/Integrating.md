@@ -11,7 +11,7 @@ A Google Meet link will automatically be generated.
 Click "Save" and share the event with attendees.  
 
  <p align="center">
-  <img src="/Users/ea/Documents/GoogleCalendar/google-calendar-documentation/docs/IMAGES/Screenshot 2025-03-27 at 10.13.31 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 10.13.31 AM.png" alt="Google Calendar Screenshot" width="400">
 </p>
 <br>
 

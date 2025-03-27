@@ -1,9 +1,18 @@
 site_name: How to Add Events on Google Calendar
 site_url: https://googlecalendarusermanual.ca
+nav:
+  - Home: index.md
+  - Notes And Warning messages: NotesAndWarnings.md
+  - Accessing Google Calendar : Accessing.md
+  - Creating an Event and Share with people: Event.md
+  - FAQ: faq.md
+  - Contact: contact.md
+
 theme:
   name: material
   font:
     text: material/weather-night
+  
 
   palette: 
     # Dark mode

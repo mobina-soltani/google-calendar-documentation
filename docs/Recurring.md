@@ -1,6 +1,6 @@
 # Adding Recurring Events and getting notifications 
 
-You are attending an online  class on a regular basis and you want to receive notifications every week, month or … . Google calendar has got a feature to facilitate users with this.
+If you’re attending an online class on a regular basis and want to receive reminders each time, Google Calendar offers a helpful feature for setting up recurring events. This allows you to schedule an event that repeats daily, weekly, monthly, or at any custom interval that fits your routine. You can also choose how and when you want to be notified—whether through email or pop-up alerts—so you never miss an important session.  
 
 
 1- Click the "Create" button or tap the + icon on mobile.  
@@ -33,5 +33,6 @@ You are attending an online  class on a regular basis and you want to receive no
 
 # Conclusion 
 
-By using these 12 steps you will be able to attend an online meeting, you will get regular notification to remind you the exact time of the meeting and you will not miss any meeting.  
+By following these 12 steps, you’ll be able to attend your online meetings with ease. You’ll receive regular notifications that remind you of the exact meeting time, helping you stay organized and ensuring that you never miss an important session.  
+ 
 

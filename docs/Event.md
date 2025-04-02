@@ -21,24 +21,14 @@ Follow the steps below to create an event and invite others to join.
 
 ## Sharing Your Calendar with Others
 
-6. Click the **gear icon (⚙️)** in the top-right corner and select **"Settings"**.  
-7. In the left sidebar, select the **calendar** you want to share.
-
-<p align="center">
+1. Click the **gear icon (⚙️)** in the top-right corner and select **"Settings"**.  
+2. In the left sidebar, select the **calendar** you want to share.
   <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Calendar Settings Screenshot">
-</p>
-
-8. Scroll to **"Share with specific people or groups"**, then click **"Add people and groups"**.  
-9. Enter the **email addresses** of the people you want to share your calendar with.  
-10. Choose the appropriate **permission settings** (e.g., view-only or edit access).
-
-<p align="center">
+3. Scroll to **"Share with specific people or groups"**, then click **"Add people and groups"**.  
+4. Enter the **email addresses** of the people you want to share your calendar with.  
+5. Choose the appropriate **permission settings** (e.g., view-only or edit access).
   <img src="/IMAGES/Screenshot 2025-03-27 at 9.52.33 AM.png" alt="Share with People Screenshot">
-</p>
-
-11. Click **"Send"** to share the calendar and send invitations.
-
-<p align="center">
+6. Click **"Send"** to share the calendar and send invitations.
   <img src="/IMAGES/Screenshot 2025-03-27 at 9.55.39 AM.png" alt="Send Invite Screenshot">
 
 ---

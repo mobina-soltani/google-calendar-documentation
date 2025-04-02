@@ -6,7 +6,7 @@ Whether you prefer to keep things simple or want full mobile integration, here�
 
 ---
 
-## 🔹 Access via Web Browser
+## Access via Web Browser
 
 1. Open your browser and navigate to 👉 [**calendar.google.com**](https://calendar.google.com)
 2. Sign in using your **Google Account credentials**
@@ -18,8 +18,8 @@ Whether you prefer to keep things simple or want full mobile integration, here�
 
 For a smoother experience on your phone or tablet, download the official Google Calendar app:
 
-- 📱 **iPhone/iPad**: Available on the **App Store**
-- 🤖 **Android Devices**: Available on the **Google Play Store**
+- **iPhone/iPad**: Available on the **App Store**
+- **Android Devices**: Available on the **Google Play Store**
 
 Once installed, just log in with your Google account and enjoy syncing across all your devices.
 

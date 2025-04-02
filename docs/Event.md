@@ -11,11 +11,15 @@ Follow the steps below to create an event and invite others to join.
 ## Steps to Create an Event
 
 1. Click the **"Create"** button (or tap the **+** icon on mobile).
+<<<<<<< HEAD
 
 <p align="center">
   <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Create Event Screenshot" title = "Creat an Event" >
 </p>
 
+=======
+<img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Create Event Screenshot" >
+>>>>>>> 647d067aef2be8ab830d9940124470337a69a17f
 2. Select **"Event"** from the options.  
 3. Enter a title for your event.  
 4. Set the **date and time**. *(Optional: add a location, description, or a Google Meet link.)*  
@@ -27,6 +31,7 @@ Follow the steps below to create an event and invite others to join.
 
 1. Click the **gear icon (⚙️)** in the top-right corner and select **"Settings"**.  
 2. In the left sidebar, select the **calendar** you want to share.
+<<<<<<< HEAD
 
 <p align="center">
   <img src="/IMAGES/Screenshot 2025-03-27 at 9.14.24 AM.png" alt="Calendar Settings Screenshot" title = "Share an Event">
@@ -45,6 +50,15 @@ Follow the steps below to create an event and invite others to join.
 <p align="center">
   <img src="/IMAGES/Screenshot 2025-03-27 at 9.55.39 AM.png" alt="Send Invite Screenshot" title = "Finished">
 </p>
+=======
+  <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Calendar Settings Screenshot">
+3. Scroll to **"Share with specific people or groups"**, then click **"Add people and groups"**.  
+4. Enter the **email addresses** of the people you want to share your calendar with.  
+5. Choose the appropriate **permission settings** (e.g., view-only or edit access).
+  <img src="/IMAGES/Screenshot 2025-03-27 at 9.52.33 AM.png" alt="Share with People Screenshot">
+6. Click **"Send"** to share the calendar and send invitations.
+  <img src="/IMAGES/Screenshot 2025-03-27 at 9.55.39 AM.png" alt="Send Invite Screenshot">
+>>>>>>> 647d067aef2be8ab830d9940124470337a69a17f
 
 ---
 

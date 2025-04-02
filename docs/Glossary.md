@@ -14,4 +14,3 @@
 | **Slack**              | A messaging platform often used by teams, which can show calendar event notifications via integration. |
 | **Sync**               | The process of keeping your calendar data updated across multiple devices or platforms.                |
 
-| 

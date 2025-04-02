@@ -14,7 +14,7 @@ You can also choose how and when you want to be notified — whether through **e
 4. Choose a preset option like **Daily**, **Weekly**, **Monthly**, or **Annually**.
 
 <p align="center">
-  <img src="/IMAGES/Screenshot 2025-03-27 at 10.02.30 AM.png" alt="Google Calendar Recurrence Settings">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 10.02.30 AM.png" alt="Google Calendar Recurrence Settings" title = "Creat a recurring event">
 </p>
 
 5. You can also select **"Custom"** to set specific recurrence rules.

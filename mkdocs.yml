@@ -1,38 +1,58 @@
-site_name: How to Add Events on Google Calendar
-site_url: https://googlecalendarusermanual.ca
-nav:
-  - Home: index.md
-  - Notes And Warning messages: NotesAndWarnings.md
-  - Accessing Google Calendar : Accessing.md
-  - Creating an Event and Share with people: Event.md
-  - Adding Recurring Events and getting notifications: Recurring.md
-  - Integrating Google Calendar with Other Apps: Integrating.md
-  - Glossary: Glossary.md
+# 📅 Google Calendar User Manual Configuration  
 
-  - FAQ: faq.md
-  - Contact: contact.md
+site_name: "📖 How to Add Events on Google Calendar"  
+site_url: "https://googlecalendarusermanual.ca"  
 
-theme:
-  name: material
-  font:
-    text: material/weather-night
-  
+# 📌 Navigation Structure  
+nav:  
+  - 🏠 Home: index.md  
+  - ⚠️ Notes & Warning Messages: NotesAndWarnings.md  
+  - 🔑 Accessing Google Calendar: Accessing.md  
+  - 📆 Creating an Event & Sharing: Event.md  
+  - 🔁 Recurring Events & Notifications: Recurring.md  
+  - 🔗 Integrating Google Calendar with Other Apps: Integrating.md  
+  - 📚 Glossary: Glossary.md  
+  - ❓ FAQ: faq.md  
+  - 📩 Contact: contact.md  
 
-  palette: 
-    # Dark mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: green
-      accent: deep purple 
+# 🎨 Theme Settings  
+theme:  
+  name: material  
 
-    # ligth mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: blue
-      accent:  purple 
+  # 🌟 Font Customization  
+  font:  
+    text: material/calendar-clock  
 
-  
+  # 🎨 Color Palette  
+  palette:  
+    # 🌙 Dark Mode  
+    - scheme: slate  
+      toggle:  
+        icon: material/weather-sunny  
+        name: "Switch to Light Mode ☀️"  
+      primary: green  
+      accent: deep purple  
+
+    # ☀️ Light Mode  
+    - scheme: default  
+      toggle:  
+        icon: material/weather-night  
+        name: "Switch to Dark Mode 🌙"  
+      primary: blue  
+      accent: purple  
+
+# 🔥 Enhancements for Better UX  
+extra:  
+  social:  
+    - icon: fontawesome/brands/google  
+      link: https://calendar.google.com  
+      name: "Open Google Calendar"  
+    - icon: fontawesome/brands/github  
+      link: https://github.com/your-repo  
+      name: "View Source on GitHub"  
+
+  features:  
+    - navigation.tabs  
+    - navigation.top  
+    - search.highlight  
+    - search.suggest  

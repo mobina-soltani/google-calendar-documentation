@@ -1,7 +1,6 @@
 # Creating an Event and Share with people
 
 <br>
-Mobina 
 Google Calendar provides features that users can create and share with groups of people. Imagine it is your friend’s birthday and you want to invite people to the event via Google Calendar. By following these steps you can create an event and invite people.  
 <br>
 1.  Click the "Create" button or tap the + icon on mobile.  

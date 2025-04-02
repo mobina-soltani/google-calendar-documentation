@@ -1,45 +1,63 @@
-# Creating an Event and Share with people
+# 📆 Creating an Event and Sharing It with Others
 
 <br>
-Google Calendar provides features that users can create and share with groups of people. Imagine it is your friend’s birthday and you want to invite people to the event via Google Calendar. By following these steps you can create an event and invite people.  
-<br>
-1.  Click the "Create" button or tap the + icon on mobile.  
+
+Google Calendar offers powerful features that allow users to create events and share them with individuals or groups.  
+Imagine it’s your friend’s birthday, and you want to send out invites using Google Calendar — it’s easy!  
+Follow the steps below to create an event and invite others to join.
+
+---
+
+## ✨ Steps to Create an Event
+
+1. Click the **"Create"** button (or tap the **+** icon on mobile).
 
 <p align="center">
-  <img  src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Screenshot" width="400" >
+  <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Create Event Screenshot" >
 </p>
 
-![alt-text](IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png "Title")
+2. Select **"Event"** from the options.  
+3. Enter a title for your event.  
+4. Set the **date and time**. *(Optional: add a location, description, or a Google Meet link.)*  
+5. Click **"Save"** to finalize your event.
 
+---
 
-1.  Click on Event.  
-1.  Enter the event title.  
-1. Set the date and time.  
-(Optional) Add a location, description, or video conferencing (Google Meet).  
-5- Click "Save" to finalize the event.  
-6-Click the gear icon (⚙️) in the top-right corner and select "Settings".  
-7- In the left menu, choose the calendar you want to share.
+## 👥 Sharing Your Calendar with Others
+
+6. Click the **gear icon (⚙️)** in the top-right corner and select **"Settings"**.  
+7. In the left sidebar, select the **calendar** you want to share.
 
 <p align="center">
-  <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 8.58.07 AM.png" alt="Calendar Settings Screenshot">
 </p>
-8- Scroll to "Share with” click "Add people and groups".
 
-9- Enter the email addresses of the people you want to share with.
-10-Choose permission settings (view-only or edit access).
+8. Scroll to **"Share with specific people or groups"**, then click **"Add people and groups"**.  
+9. Enter the **email addresses** of the people you want to share your calendar with.  
+10. Choose the appropriate **permission settings** (e.g., view-only or edit access).
+
 <p align="center">
-  <img src="/IMAGES/Screenshot 2025-03-27 at 9.52.33 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 9.52.33 AM.png" alt="Share with People Screenshot">
 </p>
-11- Click "Send" to share the calendar.
+
+11. Click **"Send"** to share the calendar and send invitations.
+
 <p align="center">
-  <img src="/IMAGES/Screenshot 2025-03-27 at 9.55.39 AM.png" alt="Google Calendar Screenshot" width="400">
+  <img src="/IMAGES/Screenshot 2025-03-27 at 9.55.39 AM.png" alt="Send Invite Screenshot">
 </p>
 
+---
 
-# conclusion  
+# ✅ Conclusion  
 
+Creating and sharing events in **Google Calendar** is a simple yet powerful way to stay organized and connected.  
+Whether you're planning a birthday celebration, scheduling a team meeting, or organizing a study group, Google Calendar makes it easy to:
 
-Creating and sharing events in Google Calendar is a simple yet powerful way to stay organized and connected. Whether you're planning a birthday party, a work meeting, or a study session, Google Calendar allows you to add detailed information such as time, location, and guests. You can also customize permissions to let others view or edit the event, making collaboration easy and efficient. By implementing these steps you will be able to successfully create an event and share it with friends and whoever you like.  
+- Add details like time, location, and conferencing links
+- Invite guests with just a few clicks
+- Control what others can see or change
 
+By following these steps, you’ll be able to confidently create and share events with friends, family, classmates, or coworkers — all in just a few minutes!
 
+---
 

@@ -11,6 +11,9 @@ Whether you prefer to keep things simple or want full mobile integration, here�
 1. Open your browser and navigate to 👉 [**calendar.google.com**](https://calendar.google.com)
 2. Sign in using your **Google Account credentials**
 3. You’re in! Start creating events, setting reminders, and managing your schedule right away — no download needed.
+<p align="center">
+  <img src="/IMAGES/accessingoogle.gif">
+</p>
 
 ---
 

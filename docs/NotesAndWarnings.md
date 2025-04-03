@@ -1,7 +1,7 @@
 # ⚠️ Notes and Warning Messages  
 <br>  
 
-!!! warning "Privacy Concerns"
+!!! warning "Privacy Concerns"  
     Be cautious when sharing your calendar. If you give **editing access**, others can **modify your events**.
 
 !!! warning "Syncing Issues"

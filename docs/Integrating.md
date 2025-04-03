@@ -11,9 +11,7 @@ Here’s how you can integrate it with different tools:
 - A **Google Meet link** will automatically be generated.  
 - Click **"Save"**  and share the event with attendees.  
 
-<p align="center">
-  <img src="/IMAGES/Screenshot 2025-03-27 at 10.13.31 AM.png" alt="Google Calendar Screenshot" title = "Integrating on Google Meet">
-</p>  
+![Google Calendar Recurrence Settings](images/Screenshot8.png "Share Meet Link")
 
 <br>  
 

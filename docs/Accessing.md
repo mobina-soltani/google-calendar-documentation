@@ -11,26 +11,21 @@ Whether you prefer to keep things simple or want full mobile integration, here�
 1. Open your browser and navigate to 👉 [**calendar.google.com**](https://calendar.google.com)
 2. Sign in using your **Google Account credentials**
 3. You’re in! Start creating events, setting reminders, and managing your schedule right away — no download needed.
-<p align="center">
-  <img src="/IMAGES/accessingoogle.gif">
-</p>
 
 ---
 
-## 🔹 Access via Mobile or Tablet App
+##  Access via Mobile or Tablet App
 
 For a smoother experience on your phone or tablet, download the official Google Calendar app:
 
 - **iPhone/iPad**: Available on the **App Store**
-- **Android Devices**: Available on the **Google Play Store**
+- 🤖**Android Devices**: Available on the **Google Play Store**
 
 Once installed, just log in with your Google account and enjoy syncing across all your devices.
 
 ---
 
-<p align="center">
-  <img src="/IMAGES/Screenshot 2025-03-27 at 10.57.20 AM.png" alt="Google Calendar Screenshot">
-</p>
+![Google Calendar Recurrence Settings](images/accessingoogle.gif)
 
 With these simple steps, you’re all set to stay organized, on time, and in control of your day — no matter where you are! ✨
 

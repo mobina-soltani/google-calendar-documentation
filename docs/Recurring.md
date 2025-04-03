@@ -13,9 +13,8 @@ You can also choose how and when you want to be notified — whether through **e
 3- Click on the **"Does not repeat"** dropdown menu.  
 4- Choose a preset option like **Daily**, **Weekly**, **Monthly**, or **Annually**.
 
-  <p align="center">
-    <img src="/IMAGES/Screenshot 2025-03-27 at 10.02.30 AM.png" alt="Google Calendar Recurrence Settings" title = "Creat a recurring event">
-  </p>
+
+  ![Google Calendar Recurrence Settings](images/Screenshot6.png "Creat Recurring event")
 
 5- You can also select **"Custom"** to set specific recurrence rules.
 
@@ -43,9 +42,7 @@ You can also choose how and when you want to be notified — whether through **e
 2- Click the **"Edit"** (pencil icon) in the top-right corner.  
 3- Scroll to the **"Notification"** section.
 
-<p align="center">
-  <img src="/IMAGES/Screenshot 2025-03-27 at 10.04.50 AM.png" alt="Google Calendar Notification Settings" title = "Notification">
-</p>
+![Google Calendar Recurrence Settings](images/Screenshot5.png "Notifications")
 
 4- Choose the type of notification (**email** or **pop-up**) and how long before the event you'd like to be reminded.  
 5- Click the blue **"Save"** button in the top-right corner.

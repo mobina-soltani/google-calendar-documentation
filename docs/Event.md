@@ -20,7 +20,7 @@ Follow the steps below to create an event and invite others to join.
 6- Add the **email address** of people you want to invite.  
 7- Click on **save** to finalize the event.   
 
-![Google Calendar Sebd Event Screenshot](images/Screenshot10.png)
+![Google Calendar Sebd Event Screenshot](images/Screenshot10.png "Title")
 
 ---
 
@@ -28,24 +28,28 @@ Follow the steps below to create an event and invite others to join.
 
 If you want to create an event based on the time you are free, simply share your calendar with trusted group of people to let each other know when you are free.
 
-1- Click the **gear icon (⚙️)** in the top-right corner and select **"Settings"**.   
-
+1- On the left sidebar, under “My calendars”, find the calendar you want to share.
   
 
-2- In the left sidebar, select the **calendar** you want to share.  
+2-Hover over it and click the three dots (⋮).
 
-![Google Calendar Create Event Screenshot](images/Screenshot2.png "Create Title and save the changes")
+![Google Calendar Sebd Event Screenshot](images/Screenshot13.png "setting and Sharing")
 
-3- Scroll to **"Share with specific people or groups"**, then click **"Add people and groups"**.  
-4- Enter the **email addresses** of the people you want to share your calendar with. 
+3- Select “Settings and sharing.”  
+
+4- Scroll to **"Share with specific people or groups"**, then click **"Add people and groups"**.  
 
 !!! warning "Privacy Concerns"  
     Be cautious when sharing your calendar. If you give **editing access**, others can **modify your events**. 
-5- Choose the appropriate **permission settings** (e.g., view-only or edit access).  
+
+
+5- Enter the **email addresses** of the people you want to share your calendar with. 
+
+6- Choose the appropriate **permission settings** (e.g., view-only or edit access).  
 
 ![Google Calendar CShare Event Screenshot](images/Screenshot3.png "Share an Event")
 
-6- Click **"Send"** to share the calendar and send invitations.
+7- Click **"Send"** to share the calendar and send invitations.
 
 
 ---

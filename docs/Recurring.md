@@ -34,6 +34,8 @@ You can also choose how and when you want to be notified — whether through **e
 
 ## Setting Up Notifications
 
+Notifications are small messages appearing on the screen to inform you about an event on Google Calendar.
+
 1- Click on an existing event in your calendar.   
 
 !!! warning "Notifications"

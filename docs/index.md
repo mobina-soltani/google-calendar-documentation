@@ -9,7 +9,8 @@ With **Google Calendar**, you can:
 ✅ **Set reminders and notifications** so you never miss an important task.  
 ✅ **Share calendars with others** for better collaboration and planning.  
 
-By the end of this guide, you will have a **strong understanding** of how to use **Google Calendar**  effectively to organize your daily tasks, appointments, and events.  
+By the end of this guide, you will have a **strong understanding** of how to use **Google Calendar**  effectively to organize your daily tasks, appointments, and events.
+Bold sections represent the key takeaways that are covered in this documentation.
 
 ---  
 
@@ -38,3 +39,22 @@ Before using **Google Calendar**, it is helpful to have some basic knowledge of:
 If you meet these basic requirements, you’re all set to begin using **Google Calendar to its full potential**! 🎉  
 
 ---
+
+# ⚠️ Notes and Warning Messages  
+<br>  
+
+!!! warning "Privacy Concerns"  
+    Be cautious when sharing your calendar. If you give **editing access**, others can **modify your events**.
+
+!!! warning "Syncing Issues"
+    Ensure that your **device is connected to the internet** to sync events properly.
+
+!!! warning "Notifications"
+    Check your **device’s notification settings** to make sure you receive **event reminders** on time.
+
+!!! warning "Timezone Settings"
+    **Double-check time zones** when scheduling events, especially for **international meetings** to avoid confusion.
+
+!!! warning "Accidental Deletions"
+    **Deleted events cannot always be recovered**, so **review before making changes**.
+  

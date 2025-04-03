@@ -6,7 +6,6 @@ site_url: "https://googlecalendarusermanual.ca"
 # 📌 Navigation Structure  
 nav:  
   - 🏠 Home: index.md  
-  - ⚠️ Notes & Warning Messages: NotesAndWarnings.md  
   - 🔑 Accessing Google Calendar: Accessing.md  
   - 📆 Creating an Event & Sharing: Event.md  
   - 🔁 Recurring Events & Notifications: Recurring.md  

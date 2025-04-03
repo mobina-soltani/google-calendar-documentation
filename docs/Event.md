@@ -16,13 +16,17 @@ Follow the steps below to create an event and invite others to join.
 2- Select **"Event"** from the options.  
 3- Enter a title for your event.  
 4- Set the **date and time**. *(Optional: add a location, description, or a Google Meet link.)*  
-5- Click **"Save"** to finalize your event.
+5- Click on **"Guest"**.  
+6- Add the **email address** of people you want to invite.  
+7- Click on **save** to finalize the event.   
 
-![Google Calendar Sebd Event Screenshot](images/Screenshot4.png)
+![Google Calendar Sebd Event Screenshot](images/Screenshot10.png)
 
 ---
 
 ## Sharing Your Calendar with Others
+
+If you want to create an event based on the time you are free, simply share your calendar with trusted group of people to let each other know when you are free.
 
 1- Click the **gear icon (⚙️)** in the top-right corner and select **"Settings"**.   
 

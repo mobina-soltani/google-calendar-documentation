@@ -7,33 +7,27 @@ Here’s how you can integrate it with different tools:
 
 ## 1️⃣ Google Meet (For Video Meetings) 
 
-1. When creating an event, click on **"Add Google Meet video conferencing"**.  
+1- When creating an event, click on **"Add Google Meet video conferencing"**.  
 - A **Google Meet link** will automatically be generated.  
-- Click **"Save"**  and share the event with attendees.  
 
 ![Google Calendar Recurrence Settings](images/Screenshot8.png "Share Meet Link")
 
-<br>  
-
-## 2️⃣ Google Tasks (For Task Management)  
-
-3. Open **Google Calendar** and click on **"Tasks"** from the right sidebar.  
-- Click **"Add a task"** and enter the task details.  
-- Set a **due date**, and it will appear in your calendar.  
-- Mark tasks as **completed** when done.  
+2 - Click **"Save"**  and share the event with attendees.  
+3- Click **Join with Google Meet** to join meeting or copy the link to clipboard to share it with others.
+5- Click on the setting icon next to Join with Google Meet to set meeting details such as "Share their Screen" or "Send chat messages"
+![Google Calendar Recurrence Settings](images/Screenshot11.png "Set Meeting Details")
+6- Scroll down to set new meeting access options. You can decide if the Host must join before anyone else or not.
+![Google Calendar Recurrence Settings](images/Screenshot12.png "Share Access Options")
 
 <br>  
 
-## 3️⃣ Google Keep (For Notes and Reminders)
+ 
 
-1. Open **Google Keep** and create a note.  
-- Click on **"Remind me"** and select **"Pick date & time"**.  
 
-<br>  
 
 # Conclusion  
 
-By integrating **Google Calendar** with tools like **Google Meet, Google Tasks, and Google Keep**, you can:  
+By integrating **Google Calendar** with tools like **Google Meet** you can:  
 
  **Streamline your schedule** by managing meetings, tasks, and reminders in one place.  
  **Enhance productivity** by reducing the need to switch between multiple apps.  

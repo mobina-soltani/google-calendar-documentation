@@ -56,3 +56,6 @@ extra:
     - navigation.top  
     - search.highlight  
     - search.suggest  
+
+markdown_extensions:
+  - admonition

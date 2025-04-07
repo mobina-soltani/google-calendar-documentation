@@ -10,6 +10,7 @@ With **Google Calendar**, you can:
 ✅ **Share calendars with others** for better collaboration and planning.  
 
 By the end of this guide, you will have a **strong understanding** of how to use **Google Calendar**  effectively to organize your daily tasks, appointments, and events.
+
 Bold sections represent the key takeaways that are covered in this documentation.
 
 ---  

@@ -1,5 +1,4 @@
 # 🗓️ Accessing Google Calendar
-
 There are several convenient ways to access **Google Calendar**, whether you're at your desk or on the go. Google Calendar is now available across multiple platforms and can be easily used on your **laptop, tablet, or smartphone**. You don’t always need to install an app — in fact, it works perfectly through your browser too!
 
 Whether you prefer to keep things simple or want full mobile integration, here’s how you can get started:

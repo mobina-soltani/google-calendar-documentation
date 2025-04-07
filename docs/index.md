@@ -2,7 +2,7 @@
 
 ## Introduction  
 
-Welcome! This documentation is designed to **guide you through setting up and using Google Calendar** with ease. Whether you're a complete beginner or looking to enhance your scheduling skills, this guide offers a **step-by-step walkthrough** to help you navigate the platform effortlessly.  
+Welcome! This documentation is designed to **guide you through setting up and using <a href="https://calendar.google.com/" target="_blank">Google Calendar</a>** with ease. Whether you're a complete beginner or looking to enhance your scheduling skills, this guide offers a **step-by-step walkthrough** to help you navigate the platform effortlessly.  
 
 With **Google Calendar**, you can:  
 ✅ **Create and manage events** to stay on top of your schedule.  
@@ -19,6 +19,7 @@ Bold sections represent the key takeaways that are covered in this documentation
 
 This documentation is intended for the following users:
 <br>  
+
 **Beginners & Intermediate Users** – If you're new to Google Calendar or have only used it casually, this guide will help you master its features.  
 **Students** – Manage your academic life by **scheduling classes, assignment deadlines, and exam dates**.  
 **Professionals** – Organize your **meetings, work deadlines, and collaborative projects** more efficiently.  
@@ -42,19 +43,8 @@ If you meet these basic requirements, you’re all set to begin using **Google C
 ---
 
 # ⚠️ Notes and Warning Messages  
-<br>  
-
-!!! warning "Privacy Concerns"  
-    Be cautious when sharing your calendar. If you give **editing access**, others can **modify your events**.
-
 !!! tip "Syncing Issues"
     Ensure that your **device is connected to the internet** to sync events properly.
-
-!!! tip "Notifications"
-    Check your **device’s notification settings** to make sure you receive **event reminders** on time.
-
-!!! tip "Timezone Settings"
-    **Double-check time zones** when scheduling events, especially for **international meetings** to avoid confusion.
 
 !!! warning "Accidental Deletions"
     **Deleted events cannot always be recovered**, so **review before making changes**.

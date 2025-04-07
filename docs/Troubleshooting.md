@@ -7,7 +7,7 @@ Having issues with Google Calendar? Here are some common problems and how to fix
 ## 🔔 Not Receiving Event Notifications
 
 - Check your **device’s notification settings**.
-- Make sure calendar notifications are **enabled** in your [Google Calendar settings](https://calendar.google.com/calendar/u/0/r/settings).
+- Make sure calendar notifications are **enabled** in your <a href="https://calendar.google.com/calendar/u/0/r/settings"  target="_blank">Google Calendar settings</a>.
 - Ensure **Do Not Disturb** mode is off.
 - Try checking from another device or browser.
 

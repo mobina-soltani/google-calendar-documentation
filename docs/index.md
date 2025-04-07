@@ -18,7 +18,7 @@ Bold sections represent the key takeaways that are covered in this documentation
 ## Who Should Use This Guide?  
 
 This documentation is **intended for the following users**:  
-* **Beginners & Intermediate Users** – If you're new to Google Calendar or have only used it casually, this guide will help you master its features.  
+**Beginners & Intermediate Users** – If you're new to Google Calendar or have only used it casually, this guide will help you master its features.  
 
 **Students** – Manage your academic life by **scheduling classes, assignment deadlines, and exam dates**.  
 **Professionals** – Organize your **meetings, work deadlines, and collaborative projects** more efficiently.  

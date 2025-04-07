@@ -2,9 +2,7 @@
 
 Google Calendar allows integration with other applications to **enhance productivity and scheduling**.  
 Here’s how you can integrate it with different tools:  
-
 <br>  
-
 ## 1️⃣ Google Meet (For Video Meetings) 
 
 When you are scheduling an event you have the option to choose how this event will be held. In this secrion you will see how you can add video call link to the meeting details.

@@ -8,7 +8,10 @@ You can also choose how and when you want to be notified — whether through **e
 
 ## Steps to Create a Recurring Event
 *Go back to the main page if you are currently on anyother page on your Google Calendar.*
-1- Click the **"Create"** button or tap the **+ icon** on mobile.  
+1- Click the **"Create"** button and choode **Event**.  
+
+![Google Calendar Create Event Screenshot](images/Screenshot1.png "Create An Event")
+
 2- Enter the **event title and details**.  
 3- Click on the **"Does not repeat"** dropdown menu.  
 4- Choose a preset option like **Daily**, **Weekly**, **Monthly**, or **Annually**.
@@ -16,19 +19,19 @@ You can also choose how and when you want to be notified — whether through **e
 
   ![Google Calendar Recurrence Settings](images/Screenshot6.png "Creat Recurring event")
 
-5- You can also select **"Custom"** to set specific recurrence rules.
+You can also select **"Custom"** to set specific recurrence rules.
 
 ---
 
 ## Custom Recurrence Options
 
-6- If using the **Custom** option, you can:
+5- If using the **Custom** option, you can:
 
    - Select how often the event repeats (e.g., every 2 weeks)  
    - Choose specific days it occurs on (e.g., Mondays and Wednesdays)  
    - Set an end date or let it repeat indefinitely  
 
-7- Click **"Done"**, then **"Save"** to finalize the recurring event.
+6- Click **"Done"**, then **"Save"** to finalize the recurring event.
 
 ---
 
@@ -38,7 +41,7 @@ Notifications are small messages appearing on the screen to inform you about an 
 
 1- Click on an existing event in your calendar.   
 
-!!! warning "Notifications"
+!!! info "Notifications"
     Check your **device’s notification settings** to make sure you receive **event reminders** on time.  
 
 2- Click the **"Edit"** (pencil icon) in the top-right corner.  

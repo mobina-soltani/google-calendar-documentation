@@ -24,7 +24,7 @@ For a smoother experience on your phone or tablet, download the official Google 
 - **iPhone/iPad**: Available on the **App Store**
 - 🤖**Android Devices**: Available on the **Google Play Store**
 
-Once installed, just log in with your Google account and enjoy syncing across all your devices.
+Once installed, just log in with your Google account and enjoy syncing across all your devices. However, details of using Google Calendar is not covered in this documentation. 
 
 ---
 

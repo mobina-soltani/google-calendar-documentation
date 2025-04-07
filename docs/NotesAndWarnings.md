@@ -4,7 +4,7 @@
 !!! warning "Privacy Concerns"  
     Be cautious when sharing your calendar. If you give **editing access**, others can **modify your events**.
 
-!!! warning "Syncing Issues"
+!!! info "Syncing Issues"
     Ensure that your **device is connected to the internet** to sync events properly.
 
 !!! warning "Notifications"

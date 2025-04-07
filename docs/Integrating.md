@@ -7,10 +7,13 @@ Here’s how you can integrate it with different tools:
 
 ## 1️⃣ Google Meet (For Video Meetings) 
 
+When you are scheduling an event you have the option to choose how this event will be held. In this secrion you will see how you can add video call link to the meeting details.
+
+
 1- When creating an event, click on **"Add Google Meet video conferencing"**.  
 A **Google Meet link** will automatically be generated.  
 
-![Google Calendar Recurrence Settings](images/Screenshot8.png "Share Meet Link")
+![Google Calendar Recurrence Settings](images/Screenshot8.png "Share Meet Link" width="400")
 
 3- Click **Join with Google Meet** to join meeting or copy the link to clipboard to share it with others.  
 5- Click on the setting icon next to Join with Google Meet to set meeting details such as "Share their Screen" or "Send chat messages".  
